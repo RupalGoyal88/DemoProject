@@ -1,3 +1,3 @@
 # DemoProject
 This is my first Git repository.
-Author-Rupal Goyal
+Author-Rupal Goyal(Fast learner)
